@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 #### 🎮 My Project 🎮
 ###### 1. [3D 지뢰 찾기](https://github.com/SE0NA/sweeper-3D)(유니티, C#)
@@ -13,7 +11,7 @@
 
 ***
 <p>
-<h3>💻 Term Project 💻 </h3>
+<h4>💻 Term Project 💻 </h3>
 <h6>1. {소프트웨어기초설계} 타자 연습 프로그램(C) <br>
 2. {자바프로그래밍} 자판기 프로그램(Java) <br>
 3. {컴퓨터그래픽스} 3D 오브젝트 리더(C, openGL) <br>
