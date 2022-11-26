@@ -5,22 +5,24 @@
 
 ***
 
-#### 📙 Study 📙
+#### 💻 Study 💻
 ###### 1. [데이터베이스](https://github.com/SE0NA/Practice_DB)(SQL, Java)
-###### 2. 언리얼(C++)
+###### 2. [언리얼](https://github.com/SE0NA/Practice_Unreal5)(언리얼, C++)
 
 ***
 <p>
-<h4>💻 Term Project 💻 </h3>
-<h6>1. {소프트웨어기초설계} 타자 연습 프로그램(C) <br>
-2. {자바프로그래밍} 자판기 프로그램(Java) <br>
-3. {컴퓨터그래픽스} 3D 오브젝트 리더(C, openGL) <br>
-4. {게임프로그래밍} 2D 리듬 슈팅 게임(유니티, C#) <br>
-5. {게임프로그래밍} [3D 지뢰 찾기](https://github.com/SE0NA/3DGameProject)(유니티, C#) <br>
-6. {운영체제} [CPU 스케줄링 시뮬레이터](https://github.com/SE0NA/CPU_Scheduling_Simulator)(C) <br>
-7. {모바일프로그래밍} [체크리스트 앱](https://github.com/SE0NA/Android_Application)(안드로이드 스튜디오, Kotlin) <br>
-8. {네트워크프로그래밍} [식당 주문 리스트 서버-클라이언트](https://github.com/SE0NA/Restaurant_Order_Service)(C) <br>
-9. {임베디드프로그래밍} 라즈베리파이 빙고 게임(C) </h6>
+<h4>🏫 Term Project 🏫 </h3>
+<h6>
+1. [소프트웨어기초설계] 타자 연습 프로그램(C)
+2. [자바프로그래밍] 자판기 프로그램(Java) <br>
+3. [컴퓨터그래픽스] 3D 오브젝트 리더(C, openGL) <br>
+4. [게임프로그래밍] 2D 리듬 슈팅 게임(유니티, C#) <br>
+  5. [게임프로그래밍] <a href="https://github.com/SE0NA/3DGameProject">3D 지뢰 찾기</a>(유니티, C#) <br>
+  6. [운영체제] <a href="https://github.com/SE0NA/CPU_Scheduling_Simulator">CPU 스케줄링 시뮬레이터</a>(C) <br>
+  7. [모바일프로그래밍] <a href="https://github.com/SE0NA/Android_Application">체크리스트 앱</a>(안드로이드 스튜디오, Kotlin) <br>
+  8. [네트워크프로그래밍] <a href="https://github.com/SE0NA/Restaurant_Order_Service">식당 주문 리스트 서버-클라이언트</a>(C) <br>
+9. {임베디드프로그래밍} 라즈베리파이 빙고 게임(C)
+</h6>
 </p>
 
 <!--
