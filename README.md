@@ -1,5 +1,5 @@
 
-#### 🎮 My Project 🎮
+#### 🎮 My Game Project 🎮
 ###### 1. [3D 지뢰 찾기](https://github.com/SE0NA/sweeper-3D)(유니티, C#)
 ###### 2. [마피아 사회자](https://github.com/SE0NA/InTheWoods)(유니티, C#)
 
@@ -7,7 +7,7 @@
 
 #### 💻 Study 💻
 ###### 1. [데이터베이스](https://github.com/SE0NA/Practice_DB)(SQL, Java)
-###### 2. [언리얼](https://github.com/SE0NA/Practice_Unreal5)(언리얼, C++)
+###### 2. [언리얼 엔진4](https://github.com/SE0NA/Practice_Unreal5)(언리얼, C++)
 
 ***
 <p>
