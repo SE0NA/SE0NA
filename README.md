@@ -18,7 +18,7 @@
 1. [소프트웨어기초설계] 타자 연습 프로그램(C)
 2. [자바프로그래밍] 자판기 프로그램(Java) <br>
 3. [컴퓨터그래픽스] 3D 오브젝트 리더(C, openGL) <br>
-4. [게임프로그래밍] 2D 리듬 슈팅 게임(유니티, C#) <br>
+  4. [게임프로그래밍] <a href="https://github.com/SE0NA/2DGameProject">2D 리듬 슈팅 게임</a> (유니티, C#) <br>
   5. [게임프로그래밍] <a href="https://github.com/SE0NA/3DGameProject">3D 지뢰 찾기</a>(유니티, C#) <br>
   6. [운영체제] <a href="https://github.com/SE0NA/CPU_Scheduling_Simulator">CPU 스케줄링 시뮬레이터</a>(C) <br>
   7. [모바일프로그래밍] <a href="https://github.com/SE0NA/Android_Application">체크리스트 앱</a>(안드로이드 스튜디오, Kotlin) <br>
