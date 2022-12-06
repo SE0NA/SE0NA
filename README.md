@@ -1,9 +1,9 @@
 
 ### 🎮 My Game Project 🎮
 <h5><ol>
-  <li> <a href="https://github.com/SE0NA/2DGameProject">우주방범대 1.3: 2D 리듬 슈팅 게임</a> (유니티, 2D, C#)</li>
-  <li> <a href="https://github.com/SE0NA/sweeper-3D">sweeper 3D: 3D 지뢰 찾기</a> (유니티, 3D, C#)</li>
-  <li> <a href="https://github.com/SE0NA/InTheWoods">밤의 숲에는: 마피아 사회자</a>(유니티, C#)</li>
+  <li> <a href="https://github.com/SE0NA/2DGameProject">우주방범대 1.3</a> - 2D 리듬 슈팅 게임 (유니티, 2D, C#)</li>
+  <li> <a href="https://github.com/SE0NA/sweeper-3D">sweeper 3D</a> - 3D 지뢰 찾기 (유니티, 3D, C#)</li>
+  <li> <a href="https://github.com/SE0NA/InTheWoods">밤의 숲에는</a> - 마피아 게임 사회자(유니티, C#)</li>
 </ol></h5>
   
 ***
