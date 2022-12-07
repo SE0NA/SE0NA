@@ -28,7 +28,7 @@
   <li> [운영체제] <a href="https://github.com/SE0NA/CPU_Scheduling_Simulator">CPU 스케줄링 시뮬레이터</a> (C) </li>
   <li> [모바일프로그래밍] <a href="https://github.com/SE0NA/Android_Application">체크리스트 앱</a> (안드로이드 스튜디오, Kotlin) </li>
   <li> [네트워크프로그래밍] <a href="https://github.com/SE0NA/Restaurant_Order_Service">식당 주문 리스트 서버-클라이언트</a> (C) </li>
-  <li> [임베디드프로그래밍] <a href="">라즈베리파이 빙고 게임</a> (C)</li>
+  <li> [임베디드프로그래밍] <a href="https://github.com/yeaji7681/Embedded_Software_TermProject">라즈베리파이 GPIO 활용 빙고 게임</a> (C)</li>
 </ol></h6>
 
 <!--
