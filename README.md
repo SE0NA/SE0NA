@@ -20,9 +20,9 @@
 
 <h4>🏫 Term Project 🏫 </h3>
 <h6><ol>
-  <li> [소프트웨어기초설계]<a href="">타자 연습 프로그램</a> (C) </li>
-  <li> [자바프로그래밍]<a href="">자판기 프로그램</a> (Java) </li>
-  <li> [컴퓨터그래픽스]<a href="">3D 오브젝트 리더</a> (C, OpenGL)</li>
+  <li> [소프트웨어기초설계]<a href="https://github.com/SE0NA/TermProject#3%ED%95%99%EB%85%84">타자 연습 프로그램</a> (C) </li>
+  <li> [자바프로그래밍]<a href="https://github.com/SE0NA/TermProject#3%ED%95%99%EB%85%84">자판기 프로그램</a> (Java) </li>
+  <li> [컴퓨터그래픽스]<a href="https://github.com/SE0NA/TermProject#3%ED%95%99%EB%85%84">컴퓨터 그래픽 OpenGL</a> (C, OpenGL)</li>
   <li> [게임프로그래밍] <a href="https://github.com/SE0NA/2DGameProject">2D 리듬 슈팅 게임</a> (유니티, C#) </li>
   <li> [게임프로그래밍] <a href="https://github.com/SE0NA/3DGameProject">3D 지뢰 찾기</a> (유니티, C#) </li>
   <li> [운영체제] <a href="https://github.com/SE0NA/CPU_Scheduling_Simulator">CPU 스케줄링 시뮬레이터</a> (C) </li>
