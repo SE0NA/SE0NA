@@ -11,9 +11,6 @@
 #### 💻 Study 💻
 <h6><ol>
   <li> <a href="https://github.com/SE0NA/Practice_DB">데이터베이스</a> (SQL, Java)
-  <li> <a href="https://github.com/SE0NA/Practice_UnrealEngine4">언리얼 엔진4</a>
-  <li> <a href="https://github.com/SE0NA/Practice_Cpp">C++</a>
-  <li> <a href="https://github.com/SE0NA/Practice_Blender">블렌더 3D</a> </li>
 </ol></h6>
 
 ***
