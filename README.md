@@ -1,4 +1,4 @@
-
+<!--
 ### 🎮 My Game Project 🎮
 <h5><ol>
   <li> <a href="https://github.com/SE0NA/2DGameProject">우주방범대 1.3</a> - 2D 리듬 슈팅 게임 (유니티, 2D, C#)</li>
@@ -27,6 +27,8 @@
   <li> [네트워크프로그래밍] <a href="https://github.com/SE0NA/Restaurant_Order_Service">식당 주문 리스트 서버-클라이언트</a> (C) </li>
   <li> [임베디드프로그래밍] <a href="https://github.com/yeaji7681/Embedded_Software_TermProject">라즈베리파이 GPIO 활용 빙고 게임</a> (C)</li>
 </ol></h6>
+
+-->
 
 <!--
 **SE0NA/SE0NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
