@@ -1,18 +1,13 @@
-<!--
-### 🎮 My Game Project 🎮
+
+### 🎮 Game Project 🎮
 <h5><ol>
   <li> <a href="https://github.com/SE0NA/2DGameProject">우주방범대 1.3</a> - 2D 리듬 슈팅 게임 (유니티, 2D, C#)</li>
-  <li> <a href="https://github.com/SE0NA/sweeper-3D">sweeper 3D</a> - 3D 지뢰 찾기 (유니티, 3D, C#)</li>
-  <li> <a href="https://github.com/SE0NA/InTheWoods">밤의 숲에는</a> - 마피아 게임 사회자(유니티, C#)</li>
+  <li> <a href="https://github.com/SE0NA/3DGameProject">The door</a> - 3D 지뢰 찾기 (유니티, 3D, C#)</li>
+  <li> <a href="https://github.com/SE0NA/sweeper-3D">sweeper 3D</a> - 3D 지뢰 찾기 멀티플레이 (유니티, 3D, C#)</li>
+  <li> <a href="https://github.com/SE0NA/InTheWoods">밤의 숲에는</a> - 마피아 게임 사회자 (유니티, C#)</li>
+  <li> <a href="https://github.com/SE0NA/Runaway">hey, Runaway</a> - 모바일 퍼즐 게임 (유니티, 3D, C#)</li>
 </ol></h5>
   
-***
-
-#### 💻 Study 💻
-<h6><ol>
-  <li> <a href="https://github.com/SE0NA/Practice_DB">데이터베이스</a> (SQL, Java)
-</ol></h6>
-
 ***
 
 <h4>🏫 Term Project 🏫 </h3>
@@ -28,7 +23,7 @@
   <li> [임베디드프로그래밍] <a href="https://github.com/yeaji7681/Embedded_Software_TermProject">라즈베리파이 GPIO 활용 빙고 게임</a> (C)</li>
 </ol></h6>
 
--->
+
 
 <!--
 **SE0NA/SE0NA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
