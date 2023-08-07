@@ -1,4 +1,4 @@
-
+<!--
 ### 🎮 Game Project 🎮
 <h5><ol>
   <li> <a href="https://github.com/SE0NA/2DGameProject">우주방범대 1.3</a> - 2D 리듬 슈팅 게임 (유니티, 2D, C#)</li>
@@ -7,10 +7,10 @@
   <li> <a href="https://github.com/SE0NA/InTheWoods">밤의 숲에는</a> - 마피아 게임 사회자 (유니티, C#)</li>
   <li> <a href="https://github.com/SE0NA/Runaway">hey, Runaway</a> - 모바일 퍼즐 게임 (유니티, 3D, C#)</li>
 </ol></h5>
-  
+  -->
 ***
 
-<h4>🏫 Term Project 🏫 </h3>
+<h5>🏫 Term Project 🏫 </h5>
 <h6><ol>
   <li> [소프트웨어기초설계]<a href="https://github.com/SE0NA/TermProject#3%ED%95%99%EB%85%84">타자 연습 프로그램</a> (C) </li>
   <li> [자바프로그래밍]<a href="https://github.com/SE0NA/TermProject#3%ED%95%99%EB%85%84">자판기 프로그램</a> (Java) </li>
