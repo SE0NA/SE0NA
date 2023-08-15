@@ -1,4 +1,8 @@
-
+<h5> 개인 공부 </h5>
+<h6><ol>
+  <li> <a href="https://github.com/SE0NA/Practice_DB">데이터베이스</a> (SQL, js)</li>
+  <li> <a href="">허깅페이스 트랜스포머 기반 AI 챗봇 제작 </a> - 한국메타버스산업협회 교육</li>
+</ol></h6>
 
 
 <h5>🏫 대학 텀 프로젝트🏫 </h5>
